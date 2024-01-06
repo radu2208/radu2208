@@ -29,7 +29,14 @@ development, eager to launch my career in this field.
 </p>
 
 <hr>
-
+<h2>Examples of my work</h2>
+<p>
+  <ul>
+    <li>Test case for checking proper webpage display. Check the Google Sheets document <a href="https://docs.google.com/spreadsheets/d/1whUNoSuzjVENNJGDwccbFPy8zHAKHsHMWYp-kmqNb3U/edit?usp=sharing">here</a></li>
+    <li>Test case for checking the addition of items to the cart. Check the Google Sheets document <a href="https://docs.google.com/spreadsheets/d/1l2u_EXQ1a0q40KRo5spTeW69Nu5TtOwsXLdsaqziA70/edit?usp=sharing">here</a></li>
+  </ul>
+  
+</p>
 <!---
 radu2208/radu2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

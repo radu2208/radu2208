@@ -9,6 +9,7 @@ development, eager to launch my career in this field.
                             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
 <hr>
 <p>
+  <div><img src="https://komarev.com/ghpvc/?username=radu2208&style=flat-square&color=green" alt=""/></div>
 <h2>💻Skills:</h2>
 
 
@@ -28,7 +29,7 @@ development, eager to launch my career in this field.
 </p>
 
 <hr>
-<div><img src="https://komarev.com/ghpvc/?username=radu2208&style=flat-square&color=green" alt=""/></div>
+
 <!---
 radu2208/radu2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

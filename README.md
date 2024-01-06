@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Radu!
-- 👀 I’m interested in becoming a QA Analyst
+Hi there 👋
+
+I'm Radu, a motivated and enthusiastic individual with a passion for software testing and 
+development, eager to launch my career in this field.
+
+- 👀 I’m interested in working as a QA Analyst
 - 💞️ I’m looking to collaborate on projects that can enhance my skills and build confidence in the QA field
 - 📫 You can reach me on raduioanionita1@gmail.com
 

@@ -4,7 +4,7 @@ I'm Radu, a motivated and enthusiastic individual with a passion for software te
 development, eager to launch my career in this field.
 
 - 👀 I’m interested in working as a QA Tester
-- 💞️ I’m looking to collaborate on projects that can enhance my skills and build confidence in the QA field
+- 🤝 I’m looking to collaborate on projects that can enhance my skills and build confidence in the QA field
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/raduioanionita1/">
                             <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
 <hr>

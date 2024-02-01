@@ -53,6 +53,7 @@ development, eager to launch my career in this field.
   <h2>Courses and certifications</h2>
    <ul>
     <li>Manual QA tester - 120 hours. Check the certificate and descriptive supplement <a href="https://drive.google.com/file/d/1-mdxeUPrEKvidLrsitub93XBMbnlvKSE/view?usp=sharing">here</a></li>
+     <li><b>ISTQB</b> Certified Tester Foundation Level. Check the certificate <a href="https://atsqa.org/certified-testers/profile/2498f0be76864b9c8ef9e00ec0ca0d14">here</a></li>
   </ul>
     <hr>
   <h2>Resume</h2>

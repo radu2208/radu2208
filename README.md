@@ -58,7 +58,7 @@ development, eager to launch my career in this field.
     <hr>
   <h2>Resume</h2>
   <ul>
-    <li>You can view my resume <a href="https://drive.google.com/file/d/1JMKznvy4aorrpLvtaWcpKTklZrEqQ4Ku/view?usp=sharing">here</a></li>
+    <li>You can view my resume <a href="https://drive.google.com/file/d/1c_R7_YLJQlcsFiXG_JvNC8FPv_WWDNWU/view?usp=drivesdk">here</a></li>
   </ul>
 </p>
 <!---

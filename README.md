@@ -1,67 +1,50 @@
-<h2>Hi there 👋</h2>
+## Hi there! 👋
 
-I'm Radu, a motivated and enthusiastic individual with a passion for software testing and 
-development, eager to launch my career in this field.
+I'm **Radu**, an aspiring **Cybersecurity Professional**, **Software Tester**, and **Technical Writer** passionate about technology and problem-solving. I'm currently learning ethical hacking and defensive security while leveraging my background in software testing to enhance my skills. My goal is to secure a role in cybersecurity and contribute to impactful projects.
 
-- 👀 I’m interested in working as a Software Tester
-- 🤝 I’m looking to collaborate on projects that can enhance my skills and build confidence in the testing field
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/raduioanionita1/">
-                            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat"></a>
-<hr>
-<p>
-  <div><img src="https://komarev.com/ghpvc/?username=radu2208&style=flat-square&color=green" alt=""/></div>
-<h2>💻Skills:</h2>
+- 🔍 **Cybersecurity** | Learning ethical hacking, vulnerability assessments, and security best practices.
+- 🛠 **Software Testing** | Manual testing, API testing, test automation, and bug reporting.
+- ✍ **Technical Writing** | Creating documentation, test reports, and cybersecurity articles.
 
+📫 **Connect with me:**  
+<a href="https://www.linkedin.com/in/raduioanionita1/">
+  <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-r.png" alt="LinkedIn" width="150"/>
+</a>
 
-  <div id="badges">
-  <img src="https://img.shields.io/badge/Jira-blue?logo=atlassian&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Testlink-FFFF00?logo=testlink&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-orange?logo=Postman&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-blue?logo=sql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-grey?logo=json&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/%3C/%3EXML-orange?logo=xml&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/%7Brest%20api%7D-black?logo=rest-api&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/agile/scrum-blue?logo=scrum&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOAP-FFFF00?logo=soapui&logoColor=white&style=for-the-badge"/>
-    
-</div>
-</p>
+---
 
-<hr>
-<h2>Examples of my work</h2>
-<p>
-  <h3>Test cases and scenarios</h3>
-  <ul>
-    <li>Test case for checking proper webpage display. Check the Google Sheets document <a href="https://docs.google.com/spreadsheets/d/1whUNoSuzjVENNJGDwccbFPy8zHAKHsHMWYp-kmqNb3U/edit?usp=sharing">here</a></li>
-    <li>Test case for checking the addition of items to the cart. Check the Google Sheets document <a href="https://docs.google.com/spreadsheets/d/1l2u_EXQ1a0q40KRo5spTeW69Nu5TtOwsXLdsaqziA70/edit?usp=sharing">here</a></li>
-    <li>Test case for UI on "Contact us" page. Check the screenshot of the test case created in Testlink <a href="https://drive.google.com/file/d/16vSkUapPG7JxUpQD_rv6JLbLKYBRJePU/view?usp=sharing">here</a></li>
-    <li>Testing scenarios for an ATM. Check the screenshot of my work in JIRA <a href="https://drive.google.com/file/d/1R9JuYozOYOBpvbAhJmhh1KTSfr9_OU1h/view?usp=sharing">here</a></li>
-  </ul>
-  <h3>Bug reports</h3>
-  <ul>
-    <li>Bug #1. Check the Google Sheets document <a href="https://docs.google.com/spreadsheets/d/17mz3vV5r9DHHd4zSGCxbG3HXeakhjMqMwCNJ9lAZBLQ/edit?usp=sharing">here</a></li>
-    <li>Bug #2. Check the screenshot of the bug report in JIRA <a href="https://drive.google.com/file/d/1Mae1apsl8sGB7aDVh9mch7jQHpuD42oa/view?usp=sharing">here</a></li>
-    <li>Bug #3. Check the screenshot of the bug report in JIRA <a href="https://drive.google.com/file/d/1Z_2cwTm1JtJZQpe9sgx7qFFUIb8pWK5Y/view?usp=sharing">here</a></li>
-  </ul>
-  <h3>API testing</h3>
-  <ul>
-    <li>Weather API testing with 5 parameters. Check the screenshot of the test in Postman <a href="https://drive.google.com/file/d/107XRt93brK6Dr5kZL61vWLE9kb1tuCQt/view?usp=sharing">here</a></li>
-  </ul>
+## 🏆 Featured Work
+### 🔐 Cybersecurity
 
-  <hr>
-  <h2>Courses and certifications</h2>
-   <ul>
-    <li>Manual QA tester - 120 hours. Check the certificate and descriptive supplement <a href="https://drive.google.com/file/d/1-mdxeUPrEKvidLrsitub93XBMbnlvKSE/view?usp=sharing">here</a></li>
-     <li><b>ISTQB</b> Certified Tester Foundation Level. Check the certificate <a href="https://atsqa.org/certified-testers/profile/2498f0be76864b9c8ef9e00ec0ca0d14">here</a></li>
-  </ul>
-    <hr>
-  <h2>Resume</h2>
-  <ul>
-    <li>You can view my resume <a href="https://drive.google.com/file/d/1zUUWrSabi4EpBUQRMvqIbefdyQUSOTO1/view?usp=sharing">here</a></li>
-  </ul>
-</p>
-<!---
-radu2208/radu2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://tryhackme-badges.s3.amazonaws.com/radu2208.png" alt="Your Image Badge" />
+
+- **TryHackMe & CTF Challenges** → [GitHub Repository](#) - in progress ⏳
+- **Network Security Analysis** → [Project Link](#) - in progress ⏳
+- **Vulnerability Assessment Reports** → [Project Link](#) - in progress ⏳
+
+### 🛠 Software Testing
+- **Test Cases & Scenarios** → [Google Sheets](https://docs.google.com/spreadsheets/d/1whUNoSuzjVENNJGDwccbFPy8zHAKHsHMWYp-kmqNb3U/edit?usp=sharing)
+- **Bug Reports & Analysis** → [JIRA Screenshots](https://drive.google.com/drive/folders/1vtaQgDEAy6qDuqS8KmKZ9rRbwUnlu3LF?usp=sharing)
+- **API Testing (Postman)** → [Screenshots](https://drive.google.com/file/d/107XRt93brK6Dr5kZL61vWLE9kb1tuCQt/view?usp=sharing)
+
+### ✍ Technical Writing
+- **Cybersecurity Linkedin Posts** → [Linkedin profile](https://www.linkedin.com/in/raduioanionita1/)
+- **Software Testing Documentation** → [GitHub Repository](#) - in progress ⏳
+- **Test Reports & Guides** → [Google Drive](#) - in progress ⏳
+
+---
+
+## 📜 Certifications & Courses
+- **ISTQB Certified Tester Foundation Level** → [Certificate](https://atsqa.org/certified-testers/profile/2498f0be76864b9c8ef9e00ec0ca0d14)
+- **Manual QA Tester - 120 Hours** → [Certificate](https://drive.google.com/file/d/1-mdxeUPrEKvidLrsitub93XBMbnlvKSE/view?usp=sharing)
+- **Cybersecurity Courses & Labs** → [TryHackMe Profile](https://tryhackme.com/p/radu2208) | [Certificate](https://drive.google.com/file/d/1PQUaRcRFqM1-PyGHdZtLsuuEWkEF0U2D/view?usp=sharing)
+
+---
+
+## 📄 Resumes
+- **[Cybersecurity resume](https://drive.google.com/file/d/1OwOhETINhXhaSh7Dtj3oZIZDUkGMUkMZ/view?usp=sharing)**
+- **[Software tester resume](https://drive.google.com/file/d/194L2Mb6xDjN1ClrJoli2tuipaK8JvlIH/view?usp=sharing)**
+- **[Technical writer resume](https://drive.google.com/file/d/1oTASVVsdWU5mb3qp3AsnRrEfgmGB2yJh/view?usp=sharing)**
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=radu2208&style=flat-square&color=green)

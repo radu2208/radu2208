@@ -3,7 +3,7 @@
 I'm **Radu**, an aspiring **Cybersecurity Professional**, **Software Tester**, and **Technical Writer** passionate about technology and problem-solving. I'm currently learning ethical hacking and defensive security while leveraging my background in software testing to enhance my skills. My goal is to secure a role in cybersecurity and contribute to impactful projects.
 
 - 🔍 **Cybersecurity** | Learning ethical hacking, vulnerability assessments, and security best practices.
-- 🛠 **Software Testing** | Manual testing, API testing, test automation, and bug reporting.
+- 🛠 **Software Testing** | Manual testing, API testing and bug reporting.
 - ✍ **Technical Writing** | Creating documentation, test reports, and cybersecurity articles.
 
 📫 **Connect with me:**  

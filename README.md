@@ -29,7 +29,7 @@ I'm **Radu**, an aspiring **Cybersecurity Professional**, **Software Tester**, a
 
 ### ✍ Technical Writing
 - **Cybersecurity Linkedin Posts** → [Linkedin profile](https://www.linkedin.com/in/raduioanionita1/)
-- **Software Testing Documentation** → [GitHub Repository](#) - in progress ⏳
+- **Medium blog post** → [Nmap Essentials](https://medium.com/@ionita.radu22/nmap-essentials-a-beginners-guide-to-network-scanning-39d2ce7ffa0c)
 - **Test Reports & Guides** → [Google Drive](#) - in progress ⏳
 
 ---

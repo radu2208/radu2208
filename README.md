@@ -16,8 +16,8 @@ I'm **Radu**, an aspiring **Cybersecurity Professional**, passionate about ethic
 ## 🏆 Featured Work
 ### 🔒 Cybersecurity Projects
 
-- **Linux Privilege Escalation Guide** → [GitHub Repository](#) (Coming Soon)
-- **CTF Writeups & Challenges** → [GitHub Repository](#)
+- **Linux Privilege Escalation Guide** → [Hands-on walkthrough on Linux privilege escalation techniques](https://github.com/radu2208/linux-privilege-escalation)
+- **CTF Writeups & Challenges** → [GitHub Repository](#) - in progress ⏳
 - **Network Security Analysis** → [Project Link](#) - in progress ⏳
 - **Vulnerability Assessments** → [Project Link](#) - in progress ⏳
 

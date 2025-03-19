@@ -19,6 +19,8 @@ I'm **Radu**, an aspiring **Cybersecurity Professional**, passionate about ethic
 - **Linux Privilege Escalation Guide** → [Hands-on walkthrough on Linux privilege escalation techniques](https://github.com/radu2208/linux-privilege-escalation)
 - **CTF Writeups & Challenges** → [CTF_writeups](https://github.com/radu2208/CTF_Writeups)
 - **Network Security Analysis** → [Investigating TCP Reset Packets in Wireshark](https://github.com/radu2208/tcp-reset-analysis) → An in-depth analysis of unexpected TCP Reset packets, using Wireshark, Scapy, and tcpdump to detect network anomalies.
+- **Wi-Fi Security Assessment** → [Attacking & Defending WPA2 Networks](https://github.com/radu2208/Wi-Fi-Security-Assessment) → Handshake capture, detection, and security hardening)
+
 - **Vulnerability Assessments** → [Project Link](#) - in progress ⏳
 
 ---
